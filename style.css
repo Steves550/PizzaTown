@@ -3,7 +3,7 @@
 }
 
 .header-content {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     top: 0;
     left: 0;
     width: 100%;
@@ -11,12 +11,15 @@
     position: relative;
 }
 
-.header-showcase, h1 {
+.header-showcase ,h1 {
     color: white;
     font-size: 4rem;
-    font-weight: 600;
-    height: 70vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+}
+
+
+.header-showcase {
+    color: white;
+    align-content: center;
+    text-align: center;
+    padding-top: 200px;
 }
