@@ -1,5 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1300px;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
 #header-display {   background: url('imgs/getulio-moraes-Wz3u9_GtkWc-unsplash.jpg') no-repeat center center/cover;
-  height: 100vh;
+  height: 90vh;
 }
 
 .header-content {
@@ -11,7 +26,7 @@
     position: relative;
 }
 
-.header-showcase ,h1 {
+.header-showcase h1 {
     color: white;
     font-size: 4rem;
 }
@@ -22,4 +37,19 @@
     align-content: center;
     text-align: center;
     padding-top: 200px;
+}
+
+#about-us {
+    height: 70vh;
+}
+
+#about-us h1 {
+ text-align: center;
+ padding-top: 70px;
+}
+
+#about-us img {
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 70px;
 }
