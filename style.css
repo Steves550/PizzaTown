@@ -8,6 +8,10 @@
     display: flex;
 }
 
+.logo {
+    color: #d64820;
+}
+
 .navbar {
     position: sticky;
     top: 0;
@@ -28,8 +32,9 @@
 }
 
 .header-showcase h1 {
-    color: white;
+    color: #ffc219;
     font-size: 4rem;
+    font-family: 'Pacifico', cursive;
 }
 
 
