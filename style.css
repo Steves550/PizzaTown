@@ -31,18 +31,26 @@
     position: relative;
 }
 
-.header-showcase h1 {
-    color: #ffc219;
-    font-size: 4rem;
-    font-family: 'Pacifico', cursive;
-}
-
-
 .header-showcase {
     color: white;
     align-content: center;
     text-align: center;
     padding-top: 200px;
+}
+
+.header-showcase h1 {
+    color: #ffc219;
+    font-size: 5rem;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 15px;
+}
+
+.header-showcase h5 {
+    margin-top: 20px;
+}
+
+.header-showcase button {
+    margin-top: 20px;
 }
 
 #about-us {
