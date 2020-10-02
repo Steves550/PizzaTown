@@ -61,7 +61,7 @@
 #about-us h1 {
  text-align: center;
  padding-top: 70px;
-
+ font-family: 'Pacifico', cursive;
 }
 
 #about-us img {
@@ -73,4 +73,13 @@
 #about-us p {
     margin-left: 50px;
     margin-top: 70px;
+}
+
+#menu {
+    background: #3d3d3d;
+    color: #ffc219;
+    height: 50vh;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    padding-top: 70px;
 }
