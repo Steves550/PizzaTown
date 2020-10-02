@@ -4,7 +4,8 @@
 }
 
 .container {
-    max-width: 1300px;
+    max-width: 1400px;
+    display: flex;
 }
 
 .navbar {
@@ -41,15 +42,22 @@
 
 #about-us {
     height: 70vh;
+    
 }
 
 #about-us h1 {
  text-align: center;
  padding-top: 70px;
+
 }
 
 #about-us img {
-    width: 40%;
+    width: 45%;
     margin-top: 50px;
-    margin-left: 70px;
+    margin-left: 60px;
+}
+
+#about-us p {
+    margin-left: 50px;
+    margin-top: 70px;
 }
