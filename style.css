@@ -77,9 +77,18 @@
 
 #menu {
     background: #3d3d3d;
-    color: #ffc219;
-    height: 50vh;
+    height: 70vh;
     font-family: 'Pacifico', cursive;
     text-align: center;
-    padding-top: 70px;
+    padding-top: 60px;
+}
+
+#menu h1, h2 {
+    color: #ffc219;
+    font-family: 'Pacifico', cursive;
+}
+
+.card {
+    margin-top: 30px;
+    margin-left: 125px;
 }
