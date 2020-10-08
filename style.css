@@ -110,6 +110,12 @@
     height: 100vh;
     text-align: center;
     padding-top: 60px;
-    font-family: 'Pacifico', cursive;
 }
 
+.label-size {
+    margin-right: 253px;
+}
+
+.form-control {
+    width: 400px;
+}
