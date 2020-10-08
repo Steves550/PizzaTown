@@ -88,6 +88,11 @@
     font-family: 'Pacifico', cursive;
 }
 
+#menu h4 {
+    color: white;
+    margin-top: 20px;
+}
+
 .card {
     margin-top: 50px;
     margin-left: 125px;
