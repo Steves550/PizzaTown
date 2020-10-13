@@ -119,3 +119,7 @@
 .form-control {
     width: 400px;
 }
+
+#message {
+    margin-left: 50px;
+}
