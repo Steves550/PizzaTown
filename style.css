@@ -106,6 +106,10 @@
     margin-left: 125px;
 }
 
+#contact {
+    height: 100vh;
+}
+
 #contact h1 {
     color: #ffc219;
     font-family: 'Pacifico', cursive;
@@ -119,4 +123,15 @@
 
 #contact label {
     display: block;
+    font-family: 'Pacifico', cursive;
+}
+
+#contact button {
+    width: 200px;
+    background-color: rgba(236, 236, 236, 0.986);
+}
+
+.contact-location {
+    margin-left: 300px;
+    margin-top: 20px;
 }
