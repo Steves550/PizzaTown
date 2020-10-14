@@ -106,20 +106,17 @@
     margin-left: 125px;
 }
 
-#contact {
-    height: 100vh;
+#contact h1 {
+    color: #ffc219;
+    font-family: 'Pacifico', cursive;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 50px;
 }
 
-.label-size {
-    margin-right: 253px;
+#contact input, textarea {
+    width: 500px;
 }
 
-.form-control {
-    width: 400px;
-}
-
-#message {
-    margin-left: 50px;
+#contact label {
+    display: block;
 }
