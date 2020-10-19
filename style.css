@@ -156,3 +156,12 @@ html {
     font-size: 1.2rem;
     padding-top: 12px;
 }
+
+
+/* MOBILE STYLING OVER 768PX */
+
+@media (max-width: 1100px) {
+    #about-us, .container {
+        display: block;
+    }
+}
