@@ -111,7 +111,7 @@ html {
 }
 
 #contact {
-    height: 70vh;
+    height: 100vh;
 }
 
 #contact h1 {
@@ -171,6 +171,17 @@ html {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+   }
+
+   #contact .container {
+       display: block;
+       text-align: center;
+   }
+
+   .contact-location {
+       text-align: center;
+       margin-top: 50px;
+       margin-left: auto;
    }
       
 }
