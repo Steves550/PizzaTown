@@ -6,3 +6,14 @@
 #contact input, textarea {
     width: 300px;
 }
+
+.card {
+    width: auto;
+    height: auto;
+    margin-right: auto;
+}
+
+#menu .container {
+   display: block;
+   height: auto;
+}
