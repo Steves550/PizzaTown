@@ -3,6 +3,10 @@
   max-height: 200px;
 }
 
+#about-us p {
+    font-size: 0.9rem;
+}
+
 #contact input, textarea {
     width: 300px;
 }
