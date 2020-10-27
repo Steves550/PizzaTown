@@ -173,9 +173,9 @@ html {
 /* MOBILE STYLING OVER 768PX TO 1100PX */
 
 @media (max-width: 1100px) {
-   #about-us .container {
+   #about-us, .container {
        display: block;
-       height: 100vh;
+       height: auto;
    }
 
    .img-fluid {
@@ -185,18 +185,19 @@ html {
     width: 50%;
    }
 
-   #about-us {
-    height: 90vh;
-}
+   #menu, .container {
+       padding-bottom: 30px;
+   }
 
    .card {
     margin-left: auto;
     margin-right: auto;
    }
 
-   #contact .container {
+   #contact, .container {
        display: block;
        text-align: center;
+       height: auto;
    }
 
    .contact-location {
